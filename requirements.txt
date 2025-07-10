@@ -1,0 +1,13 @@
+streamlit>=1.28.0
+torch>=1.9.0
+torch-geometric>=2.0.0
+torchvision>=0.10.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+Pillow>=8.3.0
+PyYAML>=5.4.0
+tensorflow>=2.8.0
+open-clip-torch
+scikit-learn
+joblib
+psutil
